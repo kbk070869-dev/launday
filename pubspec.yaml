@@ -1,0 +1,18 @@
+name: laundry_mvp_flutter
+description: Offline APK-ready MVP for 세탁수거배달
+publish_to: "none"
+version: 0.3.0+3
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
